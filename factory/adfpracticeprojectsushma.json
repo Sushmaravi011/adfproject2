@@ -1,0 +1,15 @@
+{
+	"name": "adfpracticeprojectsushma",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "36bf054b-894f-4644-856e-77d5196a928c",
+		"tenantId": "65c01425-da68-4c89-ba11-0de36643919e"
+	}
+}
